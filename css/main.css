@@ -25,3 +25,8 @@ body {
   display: block;
   width: 100%;
 }
+
+.img-card {
+  display: block;
+  width: 50%;
+}
